@@ -1,6 +1,4 @@
 /node_modules
-/public/storage
-/public/hot
 /storage/*.key
 /vendor
 /.idea
@@ -12,3 +10,5 @@ Homestead.yaml
 .idea
 .vscode
 .DS_Store
+/package-lock.json
+/composer.lock

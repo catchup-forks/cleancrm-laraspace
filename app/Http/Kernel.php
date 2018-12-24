@@ -20,7 +20,7 @@ class Kernel extends HttpKernel
         \Laraspace\Http\Middleware\TrimStrings::class,
         \Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull::class,
         \Laraspace\Http\Middleware\TrustProxies::class,
-        SettingsMiddleware::class,
+        //SettingsMiddleware::class,
     ];
 
     /**
